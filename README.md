@@ -94,7 +94,7 @@ SourceForge es una central de desarrollos de software que controla y gestiona va
 * CVS
 * GIT
 * Mercurial
-* Bazzar
+* Bazaar
 * Alojamiento web
 * Aplicaciones web
 * Blog (Wordpress)
