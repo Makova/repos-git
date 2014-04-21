@@ -49,8 +49,7 @@ que trabajan con software libre, algunos proyectos son:
 Aunque aseguran total transparencia algunos usuarios recomiendan migrar los proyectos a otros sitios web de colaboración similares a SourceForge. El propio SourceForge alega que tienen que cumplir la ley estadounidense por estar alojado en los Estados Unidos.
 
 
-Licencia
---------
+###Licencia
 
 En junio de 2012, SourceForge lanzó su software subyacente, llamado [Allura](http://en.wikipedia.org/wiki/Allura), bajo la [Apache license](http://www.apache.org/licenses/) que luego fue aceptada por [Apache foundation](http://www.apache.org/).
 
